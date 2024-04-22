@@ -1,1 +1,7 @@
-<h2 align="center">Welcome to <a href="https://bikari.top">Yukipara-Cafe</a></h2>
+## Welcome to [BikariArchive](https://bikari.top)
+
+Hi, I'm KazariEX, a front-end enthusiast driven by my interests, enjoy reading light novels and listening HDM.
+
+I primarily use Vue and Nuxt for developing.
+
+Since I hardly speak any English, so I mostly rely on GPT for translation. Please be understanding of my grammatical issues.
