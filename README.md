@@ -4,4 +4,4 @@ Hi, I'm KazariEX, a front-end enthusiast driven by my interests, enjoy reading l
 
 I primarily use Vue and Nuxt for developing.
 
-Since I hardly speak any English, so I mostly rely on GPT for translation. Please be understanding of my grammatical issues.
+Since I hardly speak any English, so I mostly rely on LLM for translation. Please be understanding of my grammatical issues.
